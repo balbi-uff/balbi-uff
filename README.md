@@ -11,7 +11,7 @@
 - 🔭 Trabalho como **Desenvolvedor na PrimeUp**. 
 - 🌱 Estou cursando **Sistemas de Informação na UFF**.
 - 📱  Sou apaixonado por desenvolvimento de aplicações.
-- ⚡ Procuro colaborar com soluções que ajudem a **transformar a vida das pessoas**.
+- ⚡ Procuro colaborar com soluções que ajudem a **dinamizar o mercado de trabalho e acelerar o crescimento econômico do Brasil com implementações tecnológicas**.
 
 
 #### Contato 
