@@ -1,16 +1,37 @@
-### Hi there 👋
+# André Balbi
+###### balbi-uff | derKatze789
 
-<!--
-**balbi-uff/balbi-uff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Eu resolvo problemas"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+██████╗░░█████╗░██╗░░░░░██████╗░██╗░░░░░░██╗░░░██╗███████╗███████╗ ██╔══██╗██╔══██╗██║░░░░░██╔══██╗██║░░░░░░██║░░░██║██╔════╝██╔════╝ ██████╦╝███████║██║░░░░░██████╦╝██║█████╗██║░░░██║█████╗░░█████╗░░ ██╔══██╗██╔══██║██║░░░░░██╔══██╗██║╚════╝██║░░░██║██╔══╝░░██╔══╝░░ ██████╦╝██║░░██║███████╗██████╦╝██║░░░░░░╚██████╔╝██║░░░░░██║░░░░░ ╚═════╝░╚═╝░░╚═╝╚══════╝╚═════╝░╚═╝░░░░░░░╚═════╝░╚═╝░░░░░╚═╝░░░░░
+
+
+#### Sobre mim
+- 🔭 Trabalho como **Desenvolvedor na PrimeUp**. 
+- 🌱 Estou cursando **Sistemas de Informação na UFF**.
+- 📱  Sou apaixonado por desenvolvimento de aplicações.
+- ⚡ Procuro colaborar com soluções que ajudem a **transformar a vida das pessoas**.
+
+
+#### Contato 
+- 💬 **LinkedIn:** https://www.linkedin.com/in/andre-balbi/
+- 📧 **Email: amabalbi@id.uff.br**
+- 📌 **Rio de Janeiro, RJ - Brasil**
+
+#### Tecnologias 
+- Python
+- Django
+- C#
+- .NET
+- Visual Studio
+- SQL Server
+- PostgreSQL
+- Bash
+- Git
+- Shell
+- Docker
+- Markdown
+- SonarQube
+- Jenkins
+- etc
