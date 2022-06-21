@@ -8,9 +8,9 @@
 
 
 #### Sobre mim
-- 🔭 Trabalho como **Desenvolvedor na PrimeUp**. 
+- 🔭 Trabalho como **Analista Júnior na PrimeUp, no momento trabalho gerenciando serviços do SonarQube e desenvolvendo plugins de regras customizadas**. 
 - 🌱 Estou cursando **Sistemas de Informação na UFF**.
-- 📱  Sou apaixonado por desenvolvimento de aplicações.
+- 📱  Sou apaixonado por desenvolvimento de aplicações, clean code e arquitetura de código.
 - ⚡ Procuro colaborar com soluções que ajudem a **dinamizar o mercado de trabalho e acelerar o crescimento econômico do Brasil com implementações tecnológicas**.
 
 > Em breve disponibilizarei projetos!
@@ -21,11 +21,12 @@
 - 📌 **Rio de Janeiro, RJ - Brasil**
 
 #### Tecnologias 
-- Python
+- Python (Django)
+- SonarQube
+- Java (Maven)
 - Django
-- C#
+- C# (.NET)
 - .NET
-- Visual Studio
 - SQL Server
 - PostgreSQL
 - Bash
