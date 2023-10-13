@@ -1,19 +1,18 @@
 # André Balbi
 ###### balbi-uff | derKatze789
 
-> "Eu resolvo problemas"
+> "Always do what you are afraid to do!"
 
 
 ██████╗░░█████╗░██╗░░░░░██████╗░██╗░░░░░░██╗░░░██╗███████╗███████╗ ██╔══██╗██╔══██╗██║░░░░░██╔══██╗██║░░░░░░██║░░░██║██╔════╝██╔════╝ ██████╦╝███████║██║░░░░░██████╦╝██║█████╗██║░░░██║█████╗░░█████╗░░ ██╔══██╗██╔══██║██║░░░░░██╔══██╗██║╚════╝██║░░░██║██╔══╝░░██╔══╝░░ ██████╦╝██║░░██║███████╗██████╦╝██║░░░░░░╚██████╔╝██║░░░░░██║░░░░░ ╚═════╝░╚═╝░░╚═╝╚══════╝╚═════╝░╚═╝░░░░░░░╚═════╝░╚═╝░░░░░╚═╝░░░░░
 
 
 #### Sobre mim
-- 🔭 Trabalho como **Analista Júnior na PrimeUp, no momento trabalho gerenciando serviços do SonarQube e desenvolvendo plugins de regras customizadas**. 
+- 🔭 Trabalho como **Analista Júnior na PrimeUp, sou o responsável pelo SonarQube no Banco BV**. 
 - 🌱 Estou cursando **Sistemas de Informação na UFF**.
 - 📱  Sou apaixonado por desenvolvimento de aplicações, clean code e arquitetura de código.
 - ⚡ Procuro colaborar com soluções que ajudem a **dinamizar o mercado de trabalho e acelerar o crescimento econômico do Brasil com implementações tecnológicas**.
 
-> Em breve disponibilizarei projetos!
 
 #### Contato 
 - 💬 **LinkedIn:** https://www.linkedin.com/in/andre-balbi/
