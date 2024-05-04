@@ -8,7 +8,7 @@
 
 
 #### Sobre mim
-- 🔭 Trabalho como **QAOps Junior na PrimeUp, sou responsável pelo SonarQube no Banco BV**. 
+- 🔭 Trabalho como **QAOps Pleno na PrimeUp, sou responsável pelo SonarQube no Banco BV**. 
 - 🌱 Estou cursando **Sistemas de Informação na UFF**.
 - 📱  Sou apaixonado por desenvolvimento de aplicações, clean code e arquitetura de código.
 - ⚡ Me amarro em codar!
